@@ -46,9 +46,6 @@ python app.py
 
 🌐 Now, open up your local host and port
 
-👨‍💻 Author: Bappy Ahmed
-📊 Data Scientist
-✉️ Email: entbappy73@gmail.com
 
 # AWS-CICD-Deployment-with-Github-Actions 🚢
 
