@@ -11,6 +11,7 @@
 7. 🚀 Update the `main.py` for project execution.
 8. 📲 Update the `app.py` for user interface.
 
+
 # How to Run? 🏃‍♀️
 
 ### STEPS:
